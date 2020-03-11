@@ -1,8 +1,11 @@
 .status-bar {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 30px;
   opacity: 0.7;
+  position: fixed;
+  left: inherit;
+  top: inherit;
+  width: 100%;
 }
 
 .status-bar i {
