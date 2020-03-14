@@ -29,6 +29,7 @@
 .friend__content .friend__name {
   display: block;
   margin-bottom: 5px;
+  font-weight: 500;
 }
 
 .friend__content .friend__bottom-text,

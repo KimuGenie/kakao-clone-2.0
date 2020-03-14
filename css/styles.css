@@ -1,9 +1,10 @@
-@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:350|Open+Sans:400,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500|Open+Sans&display=swap&subset=korean");
 @import "reset.css";
 @import "status-bar.css";
 @import "header.css";
 @import "nav-bar.css";
 @import "friend.css";
+@import "friends.css";
 
 body {
   background-color: white;
