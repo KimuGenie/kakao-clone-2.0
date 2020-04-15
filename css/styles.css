@@ -8,6 +8,7 @@
 @import "find.css";
 @import "more.css";
 @import "settings.css";
+@import "chat.css";
 
 body {
   background-color: white;
@@ -23,6 +24,7 @@ body {
 }
 
 a {
+  /* 하이퍼링크 색깔이랑 밑줄쳐지는거 지움 */
   color: inherit;
   text-decoration: none;
 }
